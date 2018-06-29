@@ -16,7 +16,7 @@
 @implementation ViewController
 - (void) creatUI
 {
-    //ads
+    //ads commit try
     UILabel* label=[[UILabel alloc]init];
     label.text=@"你好，世界alsflasdlfaljflajsldfja";
     label.frame=CGRectMake(100,100,160,100);

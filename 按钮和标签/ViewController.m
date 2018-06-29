@@ -17,6 +17,7 @@
 - (void) creatUI
 {
     //ads commit try
+    //change on web
     UILabel* label=[[UILabel alloc]init];
     label.text=@"你好，世界alsflasdlfaljflajsldfja";
     label.frame=CGRectMake(100,100,160,100);

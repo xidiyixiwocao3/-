@@ -13,6 +13,7 @@
 @end
 //创建UI控件函数
 //1313
+//1850
 @implementation ViewController
 - (void) creatUI
 {

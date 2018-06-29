@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		950A850A20E2335400028AE7 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 950A850920E2335300028AE7 /* 7.png */; };
+		95127C2B20E35F340034AE22 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 95127C2A20E35F340034AE22 /* icon.png */; };
+		951387BE20E336A5009A9CEA /* 6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 951387BD20E336A5009A9CEA /* 6.jpeg */; };
 		955149CA20285FB700833CD6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 955149C920285FB700833CD6 /* AppDelegate.m */; };
 		955149CD20285FB700833CD6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 955149CC20285FB700833CD6 /* ViewController.m */; };
 		955149D020285FB700833CD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 955149CE20285FB700833CD6 /* Main.storyboard */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		950A850920E2335300028AE7 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		95127C2A20E35F340034AE22 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		951387BD20E336A5009A9CEA /* 6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 6.jpeg; path = ../../../../Desktop/6.jpeg; sourceTree = "<group>"; };
 		955149C520285FB700833CD6 /* 按钮和标签.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "按钮和标签.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		955149C820285FB700833CD6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		955149C920285FB700833CD6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -62,6 +68,9 @@
 				955149C920285FB700833CD6 /* AppDelegate.m */,
 				955149CB20285FB700833CD6 /* ViewController.h */,
 				955149CC20285FB700833CD6 /* ViewController.m */,
+				95127C2A20E35F340034AE22 /* icon.png */,
+				951387BD20E336A5009A9CEA /* 6.jpeg */,
+				950A850920E2335300028AE7 /* 7.png */,
 				955149CE20285FB700833CD6 /* Main.storyboard */,
 				955149D120285FB700833CD6 /* Assets.xcassets */,
 				955149D320285FB700833CD6 /* LaunchScreen.storyboard */,
@@ -129,9 +138,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				951387BE20E336A5009A9CEA /* 6.jpeg in Resources */,
 				955149D520285FB700833CD6 /* LaunchScreen.storyboard in Resources */,
 				955149D220285FB700833CD6 /* Assets.xcassets in Resources */,
+				95127C2B20E35F340034AE22 /* icon.png in Resources */,
 				955149D020285FB700833CD6 /* Main.storyboard in Resources */,
+				950A850A20E2335400028AE7 /* 7.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

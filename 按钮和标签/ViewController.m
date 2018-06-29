@@ -14,6 +14,7 @@
 //创建UI控件函数
 //1313
 //1850
+//loacl
 @implementation ViewController
 - (void) creatUI
 {

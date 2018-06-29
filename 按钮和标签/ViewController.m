@@ -18,6 +18,7 @@
 {
     //ads commit try
     //change on web
+    //change on local 
     UILabel* label=[[UILabel alloc]init];
     label.text=@"你好，世界alsflasdlfaljflajsldfja";
     label.frame=CGRectMake(100,100,160,100);
